@@ -4,7 +4,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.2-orange.svg)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 
-An automated fake news detection system using NLP and Machine Learning. Achieves 99% accuracy with a simple web interface.   
+An automated fake news detection system using NLP and Machine Learning. Achieves 99% accuracy with a simple web interface.       
 
 ---
 
